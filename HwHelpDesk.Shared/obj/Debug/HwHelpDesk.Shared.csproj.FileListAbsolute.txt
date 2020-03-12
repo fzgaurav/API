@@ -1,0 +1,8 @@
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Shared\bin\Debug\HwHelpDesk.Shared.dll
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Shared\bin\Debug\HwHelpDesk.Shared.pdb
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Shared\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Shared\obj\Debug\HwHelpDesk.Shared.csproj.CoreCompileInputs.cache
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Shared\obj\Debug\HwHelpDesk.Shared.csproj.CopyComplete
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Shared\obj\Debug\HwHelpDesk.Shared.dll
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Shared\obj\Debug\HwHelpDesk.Shared.pdb
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Shared\obj\Debug\HwHelpDesk.Shared.csprojAssemblyReference.cache

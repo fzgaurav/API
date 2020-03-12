@@ -1,0 +1,14 @@
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Data\bin\Debug\HwHelpDesk.Data.dll.config
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Data\bin\Debug\HwHelpDesk.Data.dll
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Data\bin\Debug\HwHelpDesk.Data.pdb
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Data\bin\Debug\EntityFramework.dll
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Data\bin\Debug\HwHelpDesk.Shared.dll
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Data\bin\Debug\HwHelpDesk.Shared.pdb
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Data\bin\Debug\EntityFramework.xml
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Data\obj\Debug\HwHelpDesk.Data.csprojAssemblyReference.cache
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Data\obj\Debug\HwHelpDesk.Data.csproj.CoreCompileInputs.cache
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Data\obj\Debug\HwHelpDesk.Data.csproj.CopyComplete
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Data\obj\Debug\HwHelpDesk.Data.dll
+E:\Gaurav-Tech\HwHelpDeskApi\HwHelpDesk.Data\obj\Debug\HwHelpDesk.Data.pdb
